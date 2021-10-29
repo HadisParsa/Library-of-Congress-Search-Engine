@@ -26,7 +26,7 @@ To use this API, check out the Requests section of the [Library of Congress API 
 
 
 ## Link
-You can experience the deployed project here: [Library of Congress Search Tool URL ](hgit  ).
+You can experience the deployed project here: [Library of Congress Search Tool URL ](https://hadisparsa.github.io/Library-of-Congress-Search-Engine/).
 
 
 ### The Homepage
