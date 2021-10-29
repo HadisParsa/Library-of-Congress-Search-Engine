@@ -41,10 +41,10 @@ The homepage (`index.html`) have the following:
 
 ## The following demo shows the web application's appearance and functionality:
 
-![The Homepage](assets/images/Screenshot1.jpg)
+![The Homepage](./assets/images/Screenshot1.jpg)
 
 
-![The Homepage](assets/images/Screenshot2.jpg)
+![The Homepage](./assets/images/Screenshot2.jpg)
 
 ### The Search Results Page
 
@@ -61,4 +61,4 @@ The search results page (`search-results.html`) have and do the following:
 
 ## The following demo shows the web application's appearance and functionality:
 
-![The Search Results Page](assets/images/Screenshot3.jpg)
+![The Search Results Page](./assets/images/Screenshot3.jpg)
